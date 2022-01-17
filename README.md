@@ -5,3 +5,6 @@
 * The first branch is for documintaion the process of working on this website.
 * Just made awireframe for the home page.
 * Another modifications will be added later.
+
+![wireframe](. mnt/Users/User/Desktop/My-restaurant/Wire.png)
+
